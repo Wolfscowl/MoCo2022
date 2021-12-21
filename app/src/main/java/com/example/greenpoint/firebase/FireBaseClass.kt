@@ -76,7 +76,7 @@ class FireBaseClass {
                 Log.d(TAG, "signUp:success")
                 userInfo.id = auth.currentUser!!.uid
                 saveUserInfo(userInfo, action, failure)
-                auth.signOut()
+                auth.signOut()  /** Wenn man das hier auskommentiert schreibt er in die DB und es knallt danach */
                 //action()
             } else {
                 Log.d(TAG, "SignUp:failure", task.exception)
