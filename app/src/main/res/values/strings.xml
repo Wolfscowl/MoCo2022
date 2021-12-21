@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">GreenPoint</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Menu -->
+    <string name="menu_home">Start</string>
+    <string name="menu_search">Suche</string>
+    <string name="menu_my_messages">Nachrichten</string>
+    <string name="menu_place_ad">Anzeige aufgeben</string>
+    <string name="menu_my_ads">Meine Anzeigen</string>
+    <string name="menu_settings">Einstellungen</string>
+
+    <!-- Autentication Activity -->
+    <string name="image_description">Image</string>
+    <string name="autentication_title">Los gehts!</string>
+    <string name="autentication_description">Starte jetzt durch in ein nachaltigeres Leben. Macht die Welt ein bischen grüner mit uns.</string>
+
+    <string name="sign_in_description">Gib jetzt deine Email Adresse und ein Passwort ein, um dich einzuloggen.</string>
+    <string name="sign_up_description">Gib jetzt deine Email Adresse und ein Passwort ein, um dich zu registrieren.</string>
+    <string name="name">Benutzername</string>
+    <string name="password">Passwort</string>
+    <string name="email">Email</string>
+
+    <string name="sign_up_Fragment_label">Registrieren</string>
+    <string name="sign_up_button">Registrieren</string>
+    <string name="sign_up_name_error">Enthält Leerzeichen oder ist zu kurz!</string>
+    <string name="sign_up_email_error">Die Email Addresse ist ungültig!</string>
+    <string name="sign_up_password_error">Enthält Leerzeichen oder ist zu kurz!</string>
+    <string name="sign_up_user_error">Ein Account mit der E-Mail Adresse existiert bereits!</string>
+    <string name="sign_up_successful">Die Registrierung war erfolgreich!</string>
+    <string name="sign_up_unsuccessful">Die Registrierung ist fehlgeschlagen!</string>
+
+    <string name="sign_in_Fragment_label">Anmelden</string>
+    <string name="sign_in_button">Einloggen</string>
+    <string name="sign_in_email_error">Die Email Addresse ist ungültig!</string>
+    <string name="sign_in_password_error">Das Passwort ist ungültig!</string>
+    <string name="sign_in_unsuccessful">Das Passwort oder die Email Adresse ist falsch!</string>
+
+    <string name="sign_out_button">Ausloggen</string>
+    <string name="sign_out_title">Ausloggen</string>
+    <string name="sign_out_message">Bist du dir sicher, dass du dich ausloggen möchtest?</string>
+    <string name="sign_out_yes">Ja</string>
+    <string name="sign_out_no">Nein</string>
+
+    <string name="change_password_Fragment_label">Passwort ändern</string>
+    <string name="change_password_button">Passwort ändern</string>
+    <string name="change_password_description">Geben Sie jetzt Ihr aktuelles und Ihr neues Passwort ein.</string>
+    <string name="current_password">Aktuelles Passwort</string>
+    <string name="current_password_error">Das aktuelle Passwort stimmt nicht übereiN1</string>
+    <string name="new_password">Neues Passwort</string>
+    <string name="new_password_error">Enthält Leerzeichen oder ist zu kurz!</string>
+    <string name="change_password_successful">Das Passwort wurde erfolgreich geändert!</string>
+    <string name="change_password_unsuccessful">Die Passwortänderung ist fehlgeschlagen!</string>
+
+    <string name="password_confirmation">Passwort bestätigen</string>
+    <string name="password_confirmation_error">Passwort stimmt nicht überein!</string>
+
+
+    <string name="edit_profil_button">Profil bearbeiten</string>
+
+    <string name="please_wait">Bitte Warten</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

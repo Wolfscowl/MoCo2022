@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".ui.authentication.AuthenticationFragment">
+
+    <TextView
+        android:id="@+id/tv_app_name"
+        style="@style/TextViewLogo"/>
+
+    <ImageView
+        android:id="@+id/iv_deocration"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:contentDescription="@string/image_description"
+        app:srcCompat="@drawable/ic_registration_login" />
+
+    <TextView
+        android:id="@+id/tv_headline"
+        style="@style/TextViewHeadline"
+        android:text="@string/autentication_title" />
+
+    <TextView
+        android:id="@+id/tv_text"
+        style="@style/TextViewDescription"
+        android:text="@string/autentication_description" />
+
+    <Button
+        android:id="@+id/btn_sign_in"
+        style="@style/ButtonDefault"
+        android:layout_marginTop="50dp"
+        android:text="@string/sign_in_button" />
+
+    <Button
+        android:id="@+id/btn_sign_up"
+        style="@style/ButtonDefault"
+        android:text="@string/sign_up_button"
+        android:textColor="@color/white" />
+
+</LinearLayout>

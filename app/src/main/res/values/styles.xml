@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <style name="TextInputLayoutDefault" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeErrorColor">@color/error_color</item>
+        <item name="errorIconTint">@color/error_color</item>
+        <item name="errorTextColor">@color/error_color</item>
+        <item name="errorIconDrawable">@drawable/ic_error</item>
+        <item name="boxBackgroundColor">@color/white</item>
+        <item name="helperTextTextAppearance">@style/TextAppearance.MaterialComponents.Subtitle1</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">@dimen/default_marginStartEnd</item>
+        <item name="android:layout_marginTop">@dimen/default_marginTop</item>
+        <item name="android:layout_marginEnd">@dimen/default_marginStartEnd</item>
+    </style>
+
+    <style name="TextInputEditTextDefault" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+
+    <style name="TextViewLogo" parent="android:Widget.TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">@string/app_name</item>
+        <item name="android:fontFamily">@font/bauhaus93</item>
+        <item name="android:textColor">@color/green_dark</item>
+        <item name="android:textSize">@dimen/default_logo_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">40dp</item>
+    </style>
+
+
+    <style name="TextViewHeadline" parent="android:Widget.TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/default_headline_size</item>
+        <item name="android:layout_marginTop">@dimen/default_marginTop</item>
+    </style>
+
+    <style name="TextViewDescription" parent="android:Widget.TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">@dimen/default_marginStartEnd</item>
+        <item name="android:layout_marginEnd">@dimen/default_marginStartEnd</item>
+        <item name="android:layout_marginTop">@dimen/default_marginTop</item>
+        <item name="android:gravity">center</item>
+        <item name="android:lineSpacingExtra">@dimen/default_line_spacing</item>
+    </style>
+
+    <style name="ButtonWhite" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">0dp</item>
+        <item name="android:layout_marginStart">0dp</item>
+        <item name="android:layout_marginEnd">0dp</item>
+        <item name="android:paddingTop">@dimen/default_paddingTopBottom</item>
+        <item name="android:paddingBottom">@dimen/default_paddingTopBottom</item>
+        <item name="android:backgroundTint">@color/white</item>
+        <item name="android:gravity">left</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="ButtonDefault" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">@dimen/default_marginStartEnd</item>
+        <item name="android:layout_marginEnd">@dimen/default_marginStartEnd</item>
+        <item name="android:layout_marginTop">@dimen/default_marginTop</item>
+        <item name="android:paddingTop">@dimen/default_paddingTopBottom</item>
+        <item name="android:paddingBottom">@dimen/default_paddingTopBottom</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+</resources>
+

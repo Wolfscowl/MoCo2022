@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".ui.setting.SettingFragment">
+
+
+    <Button
+        android:id="@+id/btn_authentication"
+        style="@style/ButtonWhite"
+        android:text="@string/sign_in_button" />
+    <Button
+        android:id="@+id/btn_change_password"
+        style="@style/ButtonWhite"
+        android:text="@string/change_password_button" />
+    <Button
+        android:id="@+id/btn_edit_profil"
+        style="@style/ButtonWhite"
+        android:text="@string/edit_profil_button" />
+</LinearLayout>

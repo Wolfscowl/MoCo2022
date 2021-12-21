@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/drawable-v24/avd_anim.xml" value="0.3769230769230769" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/drawable-v24/shape_button_rounded.xml" value="0.3828125" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/drawable-xhdpi/ic_error.xml" value="0.22135416666666666" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/drawable/ic_baseline_arrow_drop_down_circle_24.xml" value="0.3769230769230769" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3769230769230769" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/drawable/ic_menu_ad.xml" value="0.22135416666666666" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/drawable/ic_menu_camera.xml" value="0.3769230769230769" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.3828125" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/drawable/ic_menu_message.xml" value="0.22135416666666666" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/drawable/ic_menu_my_ads.xml" value="0.22135416666666666" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/drawable/ic_menu_place_ad.xml" value="0.22135416666666666" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/drawable/ic_menu_search.xml" value="0.22135416666666666" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/drawable/ic_menu_settings.xml" value="0.23541666666666666" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.3828125" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/drawable/ic_menu_start.xml" value="0.22135416666666666" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/drawable/side_nav_bar.xml" value="0.3828125" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/layout/activity_authentication.xml" value="0.20520833333333333" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/layout/activity_main.xml" value="0.35597826086956524" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/layout/activity_registration_login.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/layout/activity_splash.xml" value="0.35597826086956524" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/layout/app_bar_main.xml" value="0.35597826086956524" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/layout/dialog_progress.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/layout/fragment_authentication.xml" value="0.20520833333333333" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/layout/fragment_change_password.xml" value="0.20520833333333333" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/layout/fragment_gallery.xml" value="0.35597826086956524" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/layout/fragment_home.xml" value="0.35597826086956524" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/layout/fragment_login.xml" value="0.19114583333333332" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/layout/fragment_my_ads.xml" value="0.20520833333333333" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/layout/fragment_my_messages.xml" value="0.20520833333333333" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/layout/fragment_place_ad.xml" value="0.20520833333333333" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/layout/fragment_search.xml" value="0.20520833333333333" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/layout/fragment_setting.xml" value="0.21927083333333333" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/layout/fragment_sign_in.xml" value="0.17445482866043613" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/layout/fragment_sign_up.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/layout/fragment_slideshow.xml" value="0.35597826086956524" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/layout/fragment_splash.xml" value="0.24583333333333332" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/layout/nav_header_main.xml" value="0.35597826086956524" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/menu/activity_main_drawer.xml" value="0.67" />
+        <entry key="..\:/AndroidStudioProjects/PROJECT/GreenPoint/app/src/main/res/menu/main.xml" value="0.20520833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

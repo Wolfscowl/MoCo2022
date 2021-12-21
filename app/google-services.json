@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "93453348630",
+    "firebase_url": "https://greenpoint-a596a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "greenpoint-a596a",
+    "storage_bucket": "greenpoint-a596a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93453348630:android:d902f1efef035b155bea37",
+        "android_client_info": {
+          "package_name": "com.example.greenpoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93453348630-vbhe27564edbapgkl65sq59b5ipor8ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLoTORnSAjB0nQ-tvkeru3AIrzP_acsKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93453348630-vbhe27564edbapgkl65sq59b5ipor8ap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

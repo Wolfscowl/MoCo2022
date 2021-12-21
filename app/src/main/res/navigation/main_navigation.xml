@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.greenpoint.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_search"
+        android:name="com.example.greenpoint.ui.search.SearchFragment"
+        android:label="@string/menu_search"
+        tools:layout="@layout/fragment_search" />
+
+    <fragment
+        android:id="@+id/nav_place_ad"
+        android:name="com.example.greenpoint.ui.placead.PlaceAdFragment"
+        android:label="@string/menu_place_ad"
+        tools:layout="@layout/fragment_place_ad" />
+
+    <fragment
+        android:id="@+id/nav_my_messages"
+        android:name="com.example.greenpoint.ui.mymessages.MyMessagesFragment"
+        android:label="@string/menu_my_messages"
+        tools:layout="@layout/fragment_my_messages" />
+
+    <fragment
+        android:id="@+id/nav_my_ads"
+        android:name="com.example.greenpoint.ui.myads.MyAdsFragment"
+        android:label="@string/menu_my_ads"
+        tools:layout="@layout/fragment_my_ads" />
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.example.greenpoint.ui.setting.SettingFragment"
+        android:label="@string/menu_settings"
+        tools:layout="@layout/fragment_setting" >
+        <action
+            android:id="@+id/action_nav_settings_to_changePasswordFragment"
+            app:destination="@id/changePasswordFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/changePasswordFragment"
+        android:name="com.example.greenpoint.ui.changepassword.ChangePasswordFragment"
+        android:label="@string/change_password_Fragment_label"
+        tools:layout="@layout/fragment_change_password">
+        <action
+            android:id="@+id/action_changePasswordFragment_to_nav_settings"
+            app:destination="@id/nav_settings"
+            app:popUpTo="@id/nav_settings"
+            app:popUpToInclusive="true" />
+    </fragment>
+
+</navigation>
