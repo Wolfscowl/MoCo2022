@@ -28,7 +28,7 @@ class HomeFragment : BaseFragment() {
         /** ---------------------------------- observer ------------------------------------------*/
         homeViewModel.authenticationState.observe(viewLifecycleOwner, Observer {
             if (it == AuthenticationState.AUTHENTICATED) {
-                //homeViewModel.getUserInfo()
+                homeViewModel.getUserInfo()
             }
         })
 
